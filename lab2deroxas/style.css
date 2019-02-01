@@ -1,0 +1,84 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Staatliches" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Staatliches|VT323" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Righteous|Staatliches|VT323" rel="stylesheet">
+.hayst {
+    color:black;
+   
+}
+
+body {
+    background-color: #F0CF65;
+   
+}
+h3{
+    color:black;
+    font-family: 'Righteous', cursive;
+}
+.taas{
+    color:Black;
+    font-family: 'Staatliches', cursive;
+}
+.education{
+    color:darkslategray;
+    font-family: 'Staatliches', cursive;
+}
+.content1{
+    color:black;
+    font-family: 'Staatliches', cursive;
+}
+.education1{
+    color:black;
+    font-family: 'Staatliches', cursive;
+}
+.education2{
+    color: Black;
+    font-family: 'Staatliches', cursive;
+}
+.cocuri{
+    color:Black;
+    font-family: 'Staatliches', cursive;
+}
+.research{
+    color:black;
+    font-family: 'Staatliches', cursive;
+}
+.cheche{ 
+    color:black;
+    font-family: 'Staatliches', cursive;
+} 
+.okay{
+    color:darkslategray;
+    font-family: 'Staatliches', cursive;
+}
+.okay1{
+    color:darkslategray;
+    font-family: 'Staatliches', cursive;
+}
+.okay2{
+    color:darkslategray;
+    font-family: 'Staatliches', cursive;
+}
+.okay5{
+    color:darkseagreen;
+    font-family: 'Staatliches', cursive;
+}
+img{
+    border-radius: 50%;
+    font-family: 'Staatliches', cursive;
+}
+#left{
+    background-color: aqua;
+    height: 100vh;
+    padding: 2em 2em 4em;
+    font-family: 'Staatliches', cursive;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#right{
+    background-color:#F0CF65;
+    padding-left: 35vh;
+    margin-left: 200px;
+    margin-right: 200px;
+        
+   
+}
